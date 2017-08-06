@@ -1,0 +1,30 @@
+# Site settings
+title: Explore the land
+email: pacifictravelrentals@gmail.com
+url: https://www.pacifictravelrentals.com
+description: "Take your next adventure with a rental from us. Explore the outdoor in the comfort and safety of our vehicles."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Pacific Travel Rentals Company
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/happytravelrent
+  - title: facebook
+    url:
+  - title: instagram
+    url: https://www.instagram.com/happytravelrentals/
+  - title: pinterest
+    url: https://www.pinterest.com/happytravelrentals/
+  - title: feed
+    url: https://github.com/IronSummitMedia/startbootstrap
+
+# Build settings
+markdown: kramdown
+permalink: pretty
