@@ -216,7 +216,7 @@ a:focus {
     -moz-animation-timing-function: linear;
 }
 
-@-webkit-keyframes pulse {    
+@-webkit-keyframes pulse {
     0 {
         -webkit-transform: scale(1);
         transform: scale(1);
@@ -233,7 +233,7 @@ a:focus {
     }
 }
 
-@-moz-keyframes pulse {    
+@-moz-keyframes pulse {
     0 {
         -moz-transform: scale(1);
         transform: scale(1);
@@ -259,14 +259,11 @@ a:focus {
 }
 
 .htr-vehicles-caption-desc {
-    height: 100px;
+    height: 70px;
 }
 
-#htr-vehicle1-caption .htr-vehicles-caption-desc,
-#htr-vehicle2-caption .htr-vehicles-caption-desc,
-#htr-vehicle3-caption .htr-vehicles-caption-desc,
-#htr-vehicle4-caption .htr-vehicles-caption-desc {
-    height: 70px;
+.htr-gear-rentals-desc {
+    height: 125px;
 }
 
 .htr-vehicles-action-btn {
@@ -279,6 +276,10 @@ a:focus {
     /*-webkit-transform: rotate(7deg); /!* Chrome, Safari, Opera *!/*/
     /*transform: rotate(180deg);*/
 /*}*/
+
+.htr-gear-rentals-img {
+  width: 100%;
+}
 
 .download-section {
     width: 100%;
